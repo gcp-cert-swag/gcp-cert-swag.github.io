@@ -10,14 +10,22 @@
 
 # Professional Cloud Architect
 
+## March 3, 2022
+
+(incomplete)
+
+* Cloud Architect Unisex Eddie Bauer Full-Zip Fleece Jacket ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Cloud+Architect+Unisex+Eddie+Bauer+Full-Zip+Fleece+Jacket))
+  * Public: [Eddie Bauer Full-Zip Microfleece Jacket &#124; Product &#124; SanMar](https://www.sanmar.com/p/6361_Black) ([Archived](https://archive.ph/Zf28s))
+* Cloud Architect Storm Creek Full Zip Sweater Fleece ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Cloud+Architect+Storm+Creek+Full+Zip+Sweater+Fleece))
+
 ## April 7, 2022
 
 (incomplete)
 
-* Cloud Architect Unisex Eddie Bauer Full-Zip Fleece Jacket
+* Cloud Architect Unisex Eddie Bauer Full-Zip Fleece Jacket ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Cloud+Architect+Unisex+Eddie+Bauer+Full-Zip+Fleece+Jacket))
   * Public: [Eddie Bauer Full-Zip Microfleece Jacket &#124; Product &#124; SanMar](https://www.sanmar.com/p/6361_Black) ([Archived](https://archive.ph/Zf28s))
-* $55 Donation to Pratham
-* $55 Donation to The Trevor Project
+* $55 Donation to Pratham ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/55+Donation+to+Pratham))
+* $55 Donation to The Trevor Project ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/55+Donation+to+The+Trevor+Project))
 
 # Professional Cloud DevOps Engineer
 
@@ -25,11 +33,11 @@
 
 ![photos](devops/20220514.png)
 
-* DevOps Engineer Eco-Quilted Vest
+* DevOps Engineer Eco-Quilted Vest ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/DevOps+Engineer+Eco-Quilted+Vest))
   * Nothing’s going to slow you down. The Eco-Insulated Quilted Vest gives you warmth without the bulk. It’s eco-friendly, water-resistant, windproof, and seriously soft. It’s the perfect vest to stay ahead of the weather. Insulation: 100% Polyester (35% recycled)
   * Public: [Front Runner Men's Vest &#124; Storm Creek](https://www.stormcreek.com/products/mens-front-runner-vest) ([Archived](https://archive.ph/led4Y))
-* Women's DevOps Engineer Eco-Quilted Vest
+* Women's DevOps Engineer Eco-Quilted Vest ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Womens+DevOps+Engineer+Eco-Quilted+Vest))
   * Nothing’s going to slow you down. The Eco-Insulated Quilted Vest gives you warmth without the bulk. It’s eco-friendly, water-resistant, windproof, and seriously soft. It’s the perfect vest to stay ahead of the weather. Insulation: 100% Polyester (35% recycled)
   * Public: [Front Runner Women's Vest &#124; Storm Creek](https://www.stormcreek.com/products/womens-front-runner-vest) ([Archived](https://archive.ph/TD3rR))
-* $55 Donation to Pratham
-* $55 Donation to The Trevor Project
+* $55 Donation to Pratham ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/55+Donation+to+Pratham))
+* $55 Donation to The Trevor Project ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/55+Donation+to+The+Trevor+Project))
