@@ -8,6 +8,17 @@
   gtag('config', 'G-3GJYSY21KN');
 </script>
 
+# Professional Cloud Architect
+
+## April 7, 2022
+
+(incomplete)
+
+* Cloud Architect Unisex Eddie Bauer Full-Zip Fleece Jacket
+  * Public: [Eddie Bauer Full-Zip Microfleece Jacket &#124; Product &#124; SanMar](https://www.sanmar.com/p/6361_Black) ([Archived](https://archive.ph/Zf28s))
+* $55 Donation to Pratham
+* $55 Donation to The Trevor Project
+
 # Professional Cloud DevOps Engineer
 
 ## May 14, 2022
