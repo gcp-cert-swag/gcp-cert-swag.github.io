@@ -80,3 +80,24 @@
   * Adjustable, removable shoulder strap for easy, customized carrying
   * Top grab handles with padded handle wrap
   * Public: [Vertex Gunmetal Grey Equinox Sport Duffel](https://www.merchology.com/products/100332-vertex-charcoal-duffel) ([Archived](https://archive.ph/TwvVJ))
+
+# Professional Cloud Network Engineer
+
+## June 21, 2023
+
+![photos](network/20230621.png)
+
+* Google Cloud Certified Professional Welcome Kit ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Google+Cloud+Certified+Professional+Gift+Box))
+  * **SKU:** GGCLCCBA130499, EUROPE ✓, INDIA ✓, EVERYWHERE ELSE ✓
+  * Google Cloud Certified Professional Phone Grip:
+  * It's an opposable thumb for your phone. It lets you take selfies like a pro and share with your circle of fans, friends or family. It lets you text with the greatest of ease, and it stands up your phone to watch a movie.
+  * Public: [RockIt Phone Stand SHIPS FROM USA!](https://www.tridentpromo.com/p/IDKTW-OPZWD/RCKT/rockit-phone-stand-ships-from-usa) ([Archive](https://archive.ph/dc2yi))
+  * Google Cloud Certified Professional Mug:
+  * 12 oz double wall 18/8 stainless steel thermal mug with copper vacuum insulation, clear push-on lid with matching swivel closure, synthetic cork base, and powder coated finish.
+  * Public: [explorer](https://etsexpress.com/pg_product_detail/?id=977294) ([Archived](https://archive.ph/FPSb6))
+  * Google Cloud Certified Professional Laptop Sticker:
+  * 3" diameter sticker that let's the world know about your great accomplishment.
+* Unisex Network Engineer Full Zip Hoodie ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Unisex+Network+Engineer+Full+Zip+Hoodie))
+  * **SKU:** GGCLCXXX1241, EUROPE ✗, INDIA ✗, EVERYWHERE ELSE ✓
+  * An incredibly soft and relaxed unisex full zip up hoodie, spun from a plush poly-cotton blend, will quickly become a go-to essential. Features a relaxed fit, hood with white drawstrings, full zip closure and ribbed cuffs and waistband. 52% Airlume combed and ring-spun cotton 48% poly fleece.
+  * Public: [UNISEX FLEECE FULL-ZIP HOODIE](https://www.bellacanvas.com/product/3739/Unisex-Fleece-Full-Zip-Hoodie.html?color=00351) ([Archive](https://archive.ph/fHNYz))
