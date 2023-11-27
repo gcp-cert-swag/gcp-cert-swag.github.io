@@ -31,7 +31,7 @@
 
 ## May 14, 2022
 
-![photos](devops/20220514.png)
+[![photos](devops/20220514.png)](devops/20220514.png)
 
 * DevOps Engineer Eco-Quilted Vest ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/DevOps+Engineer+Eco-Quilted+Vest))
   * Nothing’s going to slow you down. The Eco-Insulated Quilted Vest gives you warmth without the bulk. It’s eco-friendly, water-resistant, windproof, and seriously soft. It’s the perfect vest to stay ahead of the weather. Insulation: 100% Polyester (35% recycled)
@@ -46,7 +46,7 @@
 
 ## November 2, 2022
 
-![photos](developer/20221102.png)
+[![photos](developer/20221102.png)](developer/20221102.png)
 
 * Cloud Developer Unisex Long Sleeve Tee ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Cloud+Developer+Unisex+Long+Sleeve+Tee))
   * 100% combed and ringspun cotton 30's jersey
@@ -85,7 +85,7 @@
 
 ## June 21, 2023
 
-![photos](network/20230621.png)
+[![photos](network/20230621.png)](network/20230621.png)
 
 * Google Cloud Certified Professional Welcome Kit ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Google+Cloud+Certified+Professional+Gift+Box))
   * **SKU:** GGCLCCBA130499, EUROPE ✓, INDIA ✓, EVERYWHERE ELSE ✓
@@ -106,7 +106,7 @@
 
 **Previous inventory is now being offered while supplies last. Please note that every item will not have all sizes.**
 
-![photos](network/20231127.png)
+[![photos](network/20231127.png)](network/20231127.png)
 
 * Network Engineer JBL Clip 3 Speaker ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Network+Engineer++JBL+Clip+3+Speaker))
   * **SKU:** GGCLCFVB106199
@@ -195,7 +195,7 @@
 
 **Previous inventory is now being offered while supplies last. Please note that every item will not have all sizes.**
 
-![photos](security/20231127.png)
+[![photos](security/20231127.png)](security/20231127.png)
 
 * Security Engineer Women's Afternoon Hoodie ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Security+Engineer+Womens+Afternoon+Hoodie))
   * **SKU:** GGCLCXXX1060, EUROPE ✗, INDIA ✗, EVERYWHERE ELSE ✓
