@@ -102,6 +102,93 @@
   * An incredibly soft and relaxed unisex full zip up hoodie, spun from a plush poly-cotton blend, will quickly become a go-to essential. Features a relaxed fit, hood with white drawstrings, full zip closure and ribbed cuffs and waistband. 52% Airlume combed and ring-spun cotton 48% poly fleece.
   * Public: [UNISEX FLEECE FULL-ZIP HOODIE](https://www.bellacanvas.com/product/3739/Unisex-Fleece-Full-Zip-Hoodie.html?color=00351) ([Archive](https://archive.ph/fHNYz))
 
+## November 27, 2023
+
+**Previous inventory is now being offered while supplies last. Please note that every item will not have all sizes.**
+
+![photos](network/20231127.png)
+
+* Network Engineer JBL Clip 3 Speaker ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Network+Engineer++JBL+Clip+3+Speaker))
+  * **SKU:** GGCLCFVB106199
+  * Never leave awesome sound at home again. Clip it on with the built-in carabiner, press play and make the moment pop.
+  * 10 Hour Playtime
+  * Waterproof
+  * Public: [JBL Clip 3 &#124; Portable Bluetooth® speaker](https://www.jbl.com/JBLCLIP3BLUAMCSTM.html) ([Archive](https://archive.is/46Cn5))
+* Network Engineer Men's Afternoon Hoodie ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Network+Engineer+Mens+Afternoon+Hoodie))
+  * **SKU:** GGCLCXXX1057
+  * Featuring ribbed cuffs and bottom band, kangaroo pockets, and an absurdly soft custom terry this hoodie is a comfortable choice for those cool days.
+  * Relaxed Fit
+  * Full-Zip
+  * Wash Cold, Dry Low
+  * 64% Supima Cotton, 36% MicroModal
+  * Badge Logo, Left Chest
+* Network Engineer Women's Afternoon Hoodie ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Network+Engineer+Womens+Afternoon+Hoodie))
+  * **SKU:** GGCLCXXX1058
+  * Featuring ribbed cuffs and bottom band, kangaroo pockets, and an absurdly soft custom terry this hoodie is a comfortable choice for those cool days.
+  * Please note that this item is discontinued with limited inventory. If your desired size is not available, please try the unisex version of this hoodie.
+  * Relaxed Fit
+  * Full-Zip
+  * Wash Cold, Dry Low
+  * 64% Supima Cotton, 36% MicroModal
+  * Badge Logo, Left Chest
+* Network Engineer Roots73 Full Zip Hoodie ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Network+Engineer+Roots73+Full+Zip+Hoodie))
+  * **SKU:** GGCLCXXX1225
+  * Please click 'View Product' for more information.
+  * This Fleece Full-Zip Hoody is a classic style sweatshirt with the quality you would expect from Roots 73". It's made with ultra-soft and cozy sueded fleece, and a jersey-lined hood to keep you comfy and warm. It even has a hidden security pocket to keep your valuables safe. This Hoody is a must-have on any outdoor adventure. 57% Cotton 43% Polyester sueded washed fleece.
+  * Public: [Men&#39;s PADDLECREEK Roots73 FZ Hoody &#124; Perfect Imprints](https://www.perfectimprints.com/promos/PI-101-TM181389952C/Men%252639s-PADDLECREEK-Roots73-FZ-Hoody.html) ([Archive](https://archive.is/nICRH))
+* Women's Network Engineer Roots73 Full Zip Hoodie ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Womens+Network+Engineer+Roots73+Full+Zip+Hoodie))
+  * **SKU:** GGCLCXXX1227
+  * Please click 'View Product' for more information.
+  * This Fleece Full-Zip Hoody is a classic style sweatshirt with the quality you would expect from Roots 73". It's made with ultra-soft and cozy sueded fleece, and a jersey-lined hood to keep you comfy and warm. It even has a hidden security pocket to keep your valuables safe. This Hoody is a must-have on any outdoor adventure. 57% Cotton 43% Polyester sueded washed fleece.
+  * Public: [W-PADDLECREEK Roots73 FZ Hoody &ndash; InTandem Promotions ](https://intandempromotions.com/products/w-paddlecreek-roots73-fz-hoody?variant=39350626386013) ([Archive](https://archive.is/MKu8l))
+* Google Cloud Certified Professional Welcome Kit ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Google+Cloud+Certified+Professional+Gift+Box))
+  * **SKU:** GGCLCCBA130499
+  * Google Cloud Certified Professional Phone Grip:
+  * It's an opposable thumb for your phone. It lets you take selfies like a pro and share with your circle of fans, friends or family. It lets you text with the greatest of ease, and it stands up your phone to watch a movie.
+  * Public: [RockIt Phone Stand SHIPS FROM USA!](https://www.tridentpromo.com/p/IDKTW-OPZWD/RCKT/rockit-phone-stand-ships-from-usa) ([Archive](https://archive.ph/dc2yi))
+  * Google Cloud Certified Professional Mug:
+  * 12 oz double wall 18/8 stainless steel thermal mug with copper vacuum insulation, clear push-on lid with matching swivel closure, synthetic cork base, and powder coated finish.
+  * Public: [explorer](https://etsexpress.com/pg_product_detail/?id=977294) ([Archived](https://archive.ph/FPSb6))
+  * Google Cloud Certified Professional Laptop Sticker:
+  * 3" diameter sticker that let's the world know about your great accomplishment.
+* Unisex Network Engineer Full Zip Hoodie ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Unisex+Network+Engineer+Full+Zip+Hoodie))
+  * **SKU:** GGCLCXXX1241
+  * An incredibly soft and relaxed unisex full zip up hoodie, spun from a plush poly-cotton blend, will quickly become a go-to essential. Features a relaxed fit, hood with white drawstrings, full zip closure and ribbed cuffs and waistband. 52% Airlume combed and ring-spun cotton 48% poly fleece.
+  * Public: [UNISEX FLEECE FULL-ZIP HOODIE](https://www.bellacanvas.com/product/3739/Unisex-Fleece-Full-Zip-Hoodie.html?color=00351) ([Archive](https://archive.ph/fHNYz))
+* Men's Full Zip Hoodie Network Engineer ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Mens+Full+Zip+Hoodie+Network+Engineer))
+  * **SKU:** GGCLCXXX1299
+  * Men's Full Zip Hoodie Network Engineer
+  * Fabric: 44% Recycled Polyester/44% Polyester/12% Spandex two side sueded, fleece back, jersey heather. Super soft, plus spandex for ease of movement. 13 water bottles recycled per garment.
+  * Full zip front, nylon coil zipper. Three piece hood with drawcord for fit. Hand pockets. Relaxed self fabric bottom band and sleeve cuffs. Cover stitching seams for casual appearance. Hand pocket bags form 2 interior utility pockets.
+* Network Engineer 20oz YETI Tumbler ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Network+Engineer+20oz+YETI+Tumbler+Black))
+  * **SKU:** GGCLCDNJ120999
+  * Network Engineer 20oz YETI Tumbler
+  * 18/8 Stainless Steel
+  * Double wall vacuum insulation
+  * BPA free
+  * Hand wash recommended
+  * Do not microwave
+  * Public: [YETI Rambler 20 oz Tumbler with MagSlider Lid](https://www.yeti.com/drinkware/tumblers/21070060018.html) ([Archive](https://archive.is/MJ9Au))
+* Professional Cloud Network Engineer Recertification Hammock ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Professional+Cloud+Network+Engineer+Recertification+Hammock))
+  * **SKU:** GGCLCCBA126699
+  * Please click "View Product" for more information.
+  * Enjoy comfort and relaxation wherever you go with this travel friendly hammock
+  * Set up and take down in seconds
+  * Breathable quick drying nylon with triple stitched seams
+  * Incudes attachment straps with 10 attachment points to find the perfect suspension and comfort
+  * Aviation aluminum alloy carabiners can be clipped to solid anchor points
+  * Conveniently packs and stores into its own pouch
+  * Storage pouch includes an interior pocket for storing attachment straps
+  * Maximum capacity of 400 pounds (200 pounds per strap)
+  * Tree friendly
+  * Pouch dimensions: 6.5 L x 10 H x 3 W
+  * Public: [Sebago Packable Hammock](https://gemline.com/s/product/sebago-packable-hammock/01t3t000005oRi3AAE) ([Archive](https://archive.is/yhnep))
+* Network Engineer Plush Blanket ([Link](https://shop.googlemerchandisestore.com/certificationperks/Google+Cloud+Perks/Network+Engineer+Plush+Blanket))
+  * **SKU:** GGCLCCBJ125799
+  * Please click 'View Product' for more information.
+  * This extra plush soft micro coral plush blanket is perfect to cuddle up with. The open dimensions are 50" x 60"
+  * Public: [Micro Coral Plush Blanket &#124; Leeds Promotional Products](https://leedsproducts.brandeditems.com/product/micro-coral-plush-blanket/) ([Archive](https://archive.is/KVNam))
+
 # Professional Cloud Security Engineer
 
 ## November 27, 2023
